@@ -1,0 +1,20 @@
+.bodyIndex {
+    background: linear-gradient(90deg, rgba(248,251,201,1) 0%, rgba(185,255,213,1) 100%);
+}
+
+.titulo_principal {
+    font-weight: 700;
+    font-size: 36px;
+    margin: 1em 0 1em 0;
+}
+
+.texto_inicial {
+    margin: 0 4.5em 1em 4.5em;
+}
+
+.texto_inicial_strong {
+    font-weight: 700;
+}
+.texto_inicial2 {
+    margin: 0 4.5em 1em 4.5em;
+}
