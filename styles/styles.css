@@ -85,6 +85,24 @@ video {
     .img_foto {
         width: 80%;
     }
+
+    .bodyPaul {
+        width: 100%;
+    }
+
+    .texto_principal {
+     margin: 1em 3em 3em 3em;
+    }
+
+    .img_fotoPaul {
+        margin: 1em 2em 4em 2em;
+        width: 80%;
+    }
+
+    .texto_fotoPaul {
+     margin: 1em 3em 3em 3em;
+
+    }
 }
 
 @media (max-width: 741px) {
@@ -94,6 +112,24 @@ video {
 
     .img_foto {
         width: 80%;
+    }
+
+    .bodyPaul {
+        width: 100%;
+    }
+
+    .texto_principal {
+     margin: 1em 3em 3em 3em;
+    }
+
+    .img_fotoPaul {
+        margin: 1em 2em 4em 2em;
+        width: 80%;
+    }
+
+    .texto_fotoPaul {
+     margin: 1em 3em 3em 3em;
+
     }
 }
 
@@ -118,4 +154,86 @@ video {
 .footer_texto {
     color: #000000;
     font-weight: 700;
+}
+
+.bodyPaul {
+    background: radial-gradient(circle, rgba(51,51,51,1) 52%, rgba(255,255,255,1) 100%);
+}
+
+.texto_principal {
+    margin: 1em 30em 3em 30em;
+    color: #fff;
+}
+
+.img_fotoPaul {
+    width: 45%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 3em;
+}
+
+.texto_fotoPaul {
+    margin: 1em 15em 4em 15em;
+    color: #fff;
+}
+
+@media (max-width: 1267px) {
+    .bodyPaul {
+        width: 100%;
+    }
+
+    .texto_principal {
+     margin: 1em 3em 3em 3em;
+    }
+
+    .img_fotoPaul {
+        margin: 1em 2em 4em 2em;
+        width: 80%;
+    }
+
+    .texto_fotoPaul {
+     margin: 1em 3em 3em 3em;
+
+    }
+}
+
+.bodyAllan {
+    background: radial-gradient(circle, rgba(6,73,16,1) 70%, rgba(0,255,166,1) 100%);
+}
+
+.texto_principalAllan {
+    margin: 1em 30em 3em 30em;
+    color: #fff;
+}
+
+.img_fotoAllan {
+    width: 45%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 3em;
+}
+
+.texto_fotoAllan {
+    margin: 1em 15em 4em 15em;
+    color: #fff;
+}
+
+@media (max-width: 1267px) {
+    .bodyAllan {
+        width: 100%;
+    }
+
+    .texto_principalAllan {
+     margin: 1em 3em 3em 3em;
+    }
+
+    .img_fotoAllan {
+        margin: 1em 2em 4em 2em;
+        width: 80%;
+    }
+
+    .texto_fotoAllan {
+     margin: 1em 3em 3em 3em;
+
+    }
 }
